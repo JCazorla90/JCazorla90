@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Viewnext**
 
-- 🌱 Actualmente estoy aprendiendo **Programación enfocada a la automatización enfocada a DeVops**
+- 🌱 Actualmente estoy aprendiendo **Cultura y herramientas DeVops**
 
 - 📄 Aquí puedes ver mi experiencia [https://www.linkedin.com/in/jose-cazorla-gijón/](https://www.linkedin.com/in/jose-cazorla-gijón/)
 
