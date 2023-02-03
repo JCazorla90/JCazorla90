@@ -6,7 +6,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **MBA & Big Data**
 
-- 📄 Aquí puedes ver mi experiencia [https://www.linkedin.com/in/jose-cazorla-gijón/](https://www.linkedin.com/in/jose-cazorla-gijón/)
+- 📄 Aquí puedes ver mi experiencia [Linkedin](https://www.linkedin.com/in/jose-cazorla-gijón/)
+
+- 📓 Guias y casos (en construcción) [GitBook](https://app.gitbook.com/o/k7QYsShdQGtU4A4BIIYh/s/hRWvJhDe1Y2Q8p4jQGqV/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
