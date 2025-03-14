@@ -1,7 +1,7 @@
 # 🚀 Bienvenido a la Base Estelar de Jose Cazorla 👾
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o84stzV9QL8M2zdWU/giphy.gif" width="200" alt="Starship GIF" />
+  <img src="https://media.giphy.com/media/3o84stzV9QL8M2zdWU/giphy.gif" width="400" alt="Starship GIF" />
   <h3>Apasionado por las Nuevas Tecnologías y el Universo DevSecOps</h3>
 </div>
 
