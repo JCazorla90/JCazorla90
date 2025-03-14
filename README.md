@@ -9,10 +9,10 @@
 
 ## 🌌 Sobre mí
 
-¡Saludos, viajero espacial! Soy **Jose Cazorla**, un ingeniero del caos y maestro del código, explorando los confines del desarrollo, la seguridad y las operaciones. Mi misión: construir sistemas robustos mientras navego por galaxias de datos y microservicios.
+¡Saludos, viajero espacial! Soy **Jose Cazorla**, un ingeniero del caos y padawan del código, explorando los confines del desarrollo, la seguridad y las operaciones. Mi misión: construir sistemas robustos mientras navego por galaxias de datos y microservicios.
 
 - 🔭 **Misión Actual**: Trabajando en proyectos propios desde mi laboratorio secreto.
-- 🌱 **Entrenamiento Jedi**: Estudiando **MBA & Big Data** para dominar la fuerza de los datos.
+- 🌱 **Entrenamiento Jedi**: Estudiando **IA & Blockchain** para dominar la fuerza.
 - 📡 **Transmisiones**: Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/jose-cazorla-gijón/) o revisa mis crónicas en [GitBook](https://app.gitbook.com/o/k7QYsShdQGtU4A4BIIYh/s/hRWvJhDe1Y2Q8p4jQGqV/) (en construcción, como toda buena Estrella de la Muerte).
 
 ---
@@ -67,6 +67,6 @@ Mis herramientas son como el cinturón de Batman o el inventario de un RPG: siem
 > "Que el código te acompañe, y que tus pipelines siempre sean verdes."
 
 <div align="center">
-  <img src="https://media.giphy.com/media/r3knno4y8phhC/giphy.gif?cid=ecf05e47p4k7zzkvmsfnx8gt5316ruc2ie7bxl6wjlck7wol&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" alt="Baby Yoda GIF" />
+  <img src="https://media.giphy.com/media/r3knno4y8phhC/giphy.gif?cid=ecf05e47p4k7zzkvmsfnx8gt5316ruc2ie7bxl6wjlck7wol&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" alt="Baby Yoda GIF" />
 </div>
 
